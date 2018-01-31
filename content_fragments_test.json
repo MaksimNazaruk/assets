@@ -37,6 +37,44 @@
                 },
                 ]
  },
+  {
+ "id": "crid:~~2F~~2Fbds.tv~~2F277616384-imi:0010000000D91EED",
+ "deeplink": "some-url",
+ "startTime":1517367600,
+ "endTime":1517373000,
+ "highlights": [
+                {
+                "title": "Another Football Fragment",
+                "tags": [
+                         "football",
+                         "sport"
+                         ],
+                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "start": 335,
+                "end": 350
+                },
+                {
+                "title": "Fragment Description 2",
+                "tags": [
+                         "football",
+                         "sport"
+                         ],
+                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "start": 1435,
+                "end": 1450
+                },
+                {
+                "title": "Fragment Description 3",
+                "tags": [
+                         "football",
+                         "sport"
+                         ],
+                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "start": 2135,
+                "end": 2150
+                },
+                ]
+ },
  {
  "id": "crid:~~2F~~2Fbds.tv~~2F279403468-imi:0010000000DAF8D7",
  "deeplink": "some-url",
