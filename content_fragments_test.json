@@ -44,32 +44,32 @@
  "endTime":1517373000,
  "highlights": [
                 {
-                "title": "Another Football Fragment",
+                "title": "Basketball",
                 "tags": [
-                         "football",
+                         "Basketball",
                          "sport"
                          ],
-                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "image": "http://arklahomasports.com/wp-content/uploads/2018/01/basketball1.jpg",
                 "start": 335,
                 "end": 350
                 },
                 {
                 "title": "Fragment Description 2",
                 "tags": [
-                         "football",
+                         "Basketball",
                          "sport"
                          ],
-                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "image": "http://arklahomasports.com/wp-content/uploads/2018/01/basketball1.jpg",
                 "start": 1435,
                 "end": 1450
                 },
                 {
                 "title": "Fragment Description 3",
                 "tags": [
-                         "football",
+                         "Basketball",
                          "sport"
                          ],
-                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "image": "http://arklahomasports.com/wp-content/uploads/2018/01/basketball1.jpg",
                 "start": 2135,
                 "end": 2150
                 },
@@ -82,7 +82,7 @@
  "endTime":1517380200,
  "highlights": [
                 {
-                "title": "Basketball",
+                "title": "Basketball 2",
                 "tags": [
                          "basketball",
                          "sport"
