@@ -1,0 +1,85 @@
+[
+ {
+ "id": "crid:~~2F~~2Fbds.tv~~2F277616436-imi:0010000000D9584D",
+ "deeplink": "some-url",
+ "startTime":1517380200,
+ "endTime":1517386500,
+ "highlights": [
+                {
+                "title": "Football ",
+                "tags": [
+                         "football",
+                         "sport"
+                         ],
+                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "start": 335,
+                "end": 350
+                },
+                {
+                "title": "Fragment Description 2",
+                "tags": [
+                         "football",
+                         "sport"
+                         ],
+                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "start": 1435,
+                "end": 1450
+                },
+                {
+                "title": "Fragment Description 3",
+                "tags": [
+                         "football",
+                         "sport"
+                         ],
+                "image": "https://ichef.bbci.co.uk/images/ic/480xn/p01l9jjv.jpg",
+                "start": 2135,
+                "end": 2150
+                },
+                ]
+ },
+ {
+ "id": "crid:~~2F~~2Fbds.tv~~2F279403468-imi:0010000000DAF8D7",
+ "deeplink": "some-url",
+ "startTime":1517378400,
+ "endTime":1517380200,
+ "highlights": [
+                {
+                "title": "Basketball",
+                "tags": [
+                         "basketball",
+                         "sport"
+                         ],
+                "image": "https://cdn.thinglink.me/api/image/876547335360872450/1240/10/scaletowidth",
+                "start": 360,
+                "end": 375
+                },
+                {
+                "title": "Fragment Description 2",
+                "tags": [
+                         "sport"
+                         ],
+                "image": "http://arklahomasports.com/wp-content/uploads/2018/01/basketball1.jpg",
+                "start": 550,
+                "end": 565
+                }
+                ]
+ },
+ {
+ "id": "crid:~~2F~~2Fbds.tv~~2F278536704-imi:0010000000D9439A",
+ "deeplink": "some-url",
+ "startTime":1517382000,
+ "endTime":1517383500,
+ "highlights": [
+                {
+                "title": "Skiing",
+                "tags": [
+                         "skiing",
+                         "sport"
+                         ],
+                "image": "https://stillmed.olympic.org/Global/Images/News/2014-01/06/MarliesSchild_630x364.jpg",
+                "start":230,
+                "end": 245
+                }
+                ]
+ }
+ ]
